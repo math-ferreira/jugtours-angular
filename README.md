@@ -1,27 +1,46 @@
-# App
+---
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+# JugTours Frontend
 
-## Development server
+This is the frontend project for JugTours, a Java User Groups application. The project was created to follow the tutorial outlined in the blog post [Create a Java REST API with Spring Boot](https://auth0.com/blog/spring-boot-angular-crud/#Create-a-Java-REST-API-with-Spring-Boot) by Auth0. The frontend is developed using Angular JS and is designed to integrate seamlessly with the JugTours backend.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tutorial Source
 
-## Code scaffolding
+The foundation of this project is based on the Auth0 blog post, which provides a comprehensive guide on creating a Java REST API with Spring Boot and integrating it with an Angular JS frontend.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Auth0 Blog: Create a Java REST API with Spring Boot](https://auth0.com/blog/spring-boot-angular-crud/#Create-a-Java-REST-API-with-Spring-Boot)
 
-## Build
+## Project Goal
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+The primary goal of this frontend project is to implement the client-side application for JugTours, following the principles and practices outlined in the tutorial. The Angular JS frontend is intended to integrate with the Java-based Spring Boot backend, creating a full-stack application.
 
-## Running unit tests
+## Repository Link
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+This repository serves as the home for the JugTours frontend project.
 
-## Running end-to-end tests
+- [JugTours Frontend Repository](https://github.com/math-ferreira/jugtours-angular)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Getting Started
 
-## Further help
+To get started with the JugTours frontend, follow these steps:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Clone the repository: `git clone https://github.com/math-ferreira/jugtours-angular.git`
+2. Navigate to the project directory: `cd jugtours-angular`
+3. Review the code and configuration files to understand the implementation.
+4. Follow any additional instructions from the tutorial for running the Angular JS application.
+
+## Features
+
+- Describe any specific features or functionalities implemented in the frontend.
+
+## Learnings and Improvements
+
+This project was instrumental in understanding how to use Angular JS and starting from scratch. The repository contains valuable insights, good practices, and the necessary files to handle different aspects of the frontend development process. Feel free to explore, modify, and improve as needed.
+
+## Contributing
+
+If you would like to contribute to the JugTours frontend project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
