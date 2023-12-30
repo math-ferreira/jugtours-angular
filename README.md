@@ -16,9 +16,9 @@ The primary goal of this frontend project is to implement the client-side applic
 
 ## Repository Link
 
-This repository serves as the home for the JugTours frontend project.
+This repository serves as the home for the JugTours frontend project and it works together with the another backend repository:
 
-- [JugTours Frontend Repository](https://github.com/math-ferreira/jugtours-angular)
+- [JugTours Backend Repository](https://github.com/math-ferreira/jugtours-spring)
 
 ## Getting Started
 
@@ -36,10 +36,6 @@ To get started with the JugTours frontend, follow these steps:
 ## Learnings and Improvements
 
 This project was instrumental in understanding how to use Angular JS and starting from scratch. The repository contains valuable insights, good practices, and the necessary files to handle different aspects of the frontend development process. Feel free to explore, modify, and improve as needed.
-
-## Contributing
-
-If you would like to contribute to the JugTours frontend project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
